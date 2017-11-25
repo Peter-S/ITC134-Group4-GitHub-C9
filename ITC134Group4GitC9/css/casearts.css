@@ -23,6 +23,17 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    text-align: left;
+    background-color: lightblue;
+}
+
+h4 {
+    text-align: center;
+    background-color: aquamarine;
+    
+}
+
 section {
         width:auto;
         float:left;
